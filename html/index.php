@@ -25,9 +25,6 @@
 	<p>
 		This is a test of a docker container running an apache php webserver!
 	</p>
-	<p>
-		Also Sarah if you're reading this get rekt, but i promise the video is swf, may be a little fire tho
-	</p>
 	<video controls>
 		<source src="elevatortrap.mp4" type="video/mp4">
 	</video>
