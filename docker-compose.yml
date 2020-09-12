@@ -3,8 +3,7 @@ services:
     php-apache:
         image: php:7.2.1-apache
         volumes:
-            - "/home/admin/html:/var/www/html"
+            - "./html:/var/www/html"
         ports:
             - 80:80
             - 443:443
-        restart: always
